@@ -1,0 +1,14 @@
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\bin\Debug\CarritoCliente.exe.config
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\bin\Debug\CarritoCliente.exe
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\bin\Debug\CarritoCliente.pdb
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\bin\Debug\CarritoServices.exe
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\bin\Debug\CarritoServices.pdb
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\bin\Debug\CarritoServices.exe.config
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\obj\Debug\CarritoClient.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\obj\Debug\CarritoCliente.Form1.resources
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\obj\Debug\CarritoCliente.Properties.Resources.resources
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\obj\Debug\CarritoClient.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\obj\Debug\CarritoClient.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\obj\Debug\CarritoC.C6CE3054.Up2Date
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\obj\Debug\CarritoCliente.exe
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoCliente\obj\Debug\CarritoCliente.pdb

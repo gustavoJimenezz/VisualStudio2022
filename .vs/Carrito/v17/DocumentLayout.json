@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|c:\\users\\gusta\\documents\\unldz_carpetas_programacion\\unldz_tercer_trimestre\\carrito\\carritoservices\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|solutionrelative:carritoservices\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|c:\\users\\gusta\\documents\\unldz_carpetas_programacion\\unldz_tercer_trimestre\\carrito\\carritoservices\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|solutionrelative:carritoservices\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|c:\\users\\gusta\\documents\\unldz_carpetas_programacion\\unldz_tercer_trimestre\\carrito\\carritoservices\\services\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|solutionrelative:carritoservices\\services\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|c:\\users\\gusta\\documents\\unldz_carpetas_programacion\\unldz_tercer_trimestre\\carrito\\carritoservices\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|solutionrelative:carritoservices\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A678340-8969-40FC-9815-FED74B607966}|CarritoCliente\\CarritoClient.csproj|c:\\users\\gusta\\documents\\unldz_carpetas_programacion\\unldz_tercer_trimestre\\carrito\\carritocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A678340-8969-40FC-9815-FED74B607966}|CarritoCliente\\CarritoClient.csproj|solutionrelative:carritocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A678340-8969-40FC-9815-FED74B607966}|CarritoCliente\\CarritoClient.csproj|c:\\users\\gusta\\documents\\unldz_carpetas_programacion\\unldz_tercer_trimestre\\carrito\\carritocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A678340-8969-40FC-9815-FED74B607966}|CarritoCliente\\CarritoClient.csproj|solutionrelative:carritocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A678340-8969-40FC-9815-FED74B607966}|CarritoCliente\\CarritoClient.csproj|c:\\users\\gusta\\documents\\unldz_carpetas_programacion\\unldz_tercer_trimestre\\carrito\\carritocliente\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A678340-8969-40FC-9815-FED74B607966}|CarritoCliente\\CarritoClient.csproj|solutionrelative:carritocliente\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|c:\\users\\gusta\\documents\\unldz_carpetas_programacion\\unldz_tercer_trimestre\\carrito\\carritoservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0977068C-9B1E-4975-A7F3-9F8F42747FFF}|CarritoServices\\CarritoServices.csproj|solutionrelative:carritoservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CarritoServices\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Form1.Designer.cs",
+              "RelativeToolTip": "CarritoServices\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:14:43.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Form1.cs",
+              "RelativeDocumentMoniker": "CarritoServices\\Form1.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CarritoServices\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:14:35.945Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Services\\Carrito.cs",
+              "RelativeDocumentMoniker": "CarritoServices\\Services\\Carrito.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Services\\Carrito.cs",
+              "RelativeToolTip": "CarritoServices\\Services\\Carrito.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:11:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "CarritoCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoCliente\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CarritoCliente\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:53:46.33Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "CarritoCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoCliente\\Form1.cs",
+              "RelativeToolTip": "CarritoCliente\\Form1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:32:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoCliente\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CarritoCliente\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoCliente\\Form1.Designer.cs",
+              "RelativeToolTip": "CarritoCliente\\Form1.Designer.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwD4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:36:35.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "CarritoServices\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Models\\Articulo.cs",
+              "RelativeToolTip": "CarritoServices\\Models\\Articulo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:23:16.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Program.cs",
+              "RelativeDocumentMoniker": "CarritoServices\\Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\UNLDZ_carpetas_programacion\\UNLDZ_tercer_trimestre\\Carrito\\CarritoServices\\Program.cs",
+              "RelativeToolTip": "CarritoServices\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:11:10.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

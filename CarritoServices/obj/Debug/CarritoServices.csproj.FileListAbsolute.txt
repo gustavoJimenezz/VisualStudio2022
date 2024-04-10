@@ -1,0 +1,9 @@
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoServices\bin\Debug\CarritoServices.exe.config
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoServices\bin\Debug\CarritoServices.exe
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoServices\bin\Debug\CarritoServices.pdb
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoServices\obj\Debug\CarritoServices.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoServices\obj\Debug\CarritoServices.Properties.Resources.resources
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoServices\obj\Debug\CarritoServices.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoServices\obj\Debug\CarritoServices.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoServices\obj\Debug\CarritoServices.exe
+C:\Users\gusta\Documents\UNLDZ_carpetas_programacion\UNLDZ_tercer_trimestre\Carrito\CarritoServices\obj\Debug\CarritoServices.pdb
